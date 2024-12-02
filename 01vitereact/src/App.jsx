@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-   <h1>Alfiya Heba | Vite- React</h1>
+   <h1>Alfiya Heba | vite - React</h1>
   )
 }
 
