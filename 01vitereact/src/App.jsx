@@ -1,11 +1,16 @@
-
+import Alfiya from "./alfiya"
 
 
 function App() {
-  const [count, setCount] = useState(0)
+ 
 
   return (
-   <h1>Alfiya Heba | vite - React</h1>
+    <>//This is fragmet to return multiple things 
+    <Alfiya/>
+    <h2>Alfiya Heba</h2>
+    <p>Lorem ipsum dolor sit amet.</p>
+    </>
+    
   )
 }
 
